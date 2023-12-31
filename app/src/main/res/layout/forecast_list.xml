@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+
+    <ImageView
+        android:id="@+id/iconWeather"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/app_name"
+        app:srcCompat="@drawable/weather"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/day"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Сб"
+        android:layout_marginStart="5dp"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        app:layout_constraintStart_toEndOf="@id/iconWeather"
+        app:layout_constraintTop_toTopOf="@id/iconWeather"
+        app:layout_constraintBottom_toBottomOf="@id/iconWeather"/>
+
+    <TextView
+        android:id="@+id/weatherDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mostly Cloudy"
+        android:layout_marginStart="15dp"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        app:layout_constraintStart_toEndOf="@id/day"
+        app:layout_constraintTop_toTopOf="@id/day"/>
+
+    <TextView
+        android:id="@+id/maxAndMinTemperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="27°C / 17°C"
+        android:layout_marginEnd="20dp"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        app:layout_constraintTop_toTopOf="@id/weatherDescription"
+        app:layout_constraintEnd_toEndOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
