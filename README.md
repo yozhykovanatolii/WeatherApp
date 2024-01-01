@@ -1,4 +1,4 @@
-# Weather App
+# Simply Weather Android App
 
 ## Content
 
