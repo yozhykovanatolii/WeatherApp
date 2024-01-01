@@ -7,6 +7,6 @@ import retrofit2.http.GET;
 import retrofit2.http.Query;
 
 public interface ApiPoint {
-    @GET("/v1/forecast.json?key=f26aa3ad2baa4bae920101715240101&days=5")
+    @GET("/v1/forecast.json?key=f26aa3ad2baa4bae920101715240101&days=3")
     Call<Weather> getCityWeather(@Query("q") String nameCity);
 }
