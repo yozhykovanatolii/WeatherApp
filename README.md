@@ -2,9 +2,9 @@
 This weather app for Android shows the current weather and the 3-day forecast for a specific city.
 
 ## Technologies
-- Java
-- Retrofit
-- Dependency Injection - Hilt
+- Java 8
+- Retrofit 2.9
+- Dependency Injection - Hilt 2.44
 - BroadcastReceiver
 - Material Components
 - MVVM Architecture
