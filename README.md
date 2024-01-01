@@ -10,5 +10,5 @@ This weather app for Android shows the current weather and the 5-day forecast fo
 - MVVM Architecture
 
 ## Screenshot
-![Screenshot_20240101_130330](https://github.com/yozhykovanatolii/WeatherApp/assets/154551334/59805a13-45f2-4065-97ec-1713c2011808 "0pk")
+![Screenshot_20240101_130330](https://github.com/yozhykovanatolii/WeatherApp/assets/154551334/59805a13-45f2-4065-97ec-1713c2011808?v=3&s=460 "0pk")
 
