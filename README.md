@@ -2,7 +2,7 @@
 
 ## Content
 
-## Technologies
+## Technologies / Tools used for building this app includes
 - Java
 - Retrofit
 - Dependency Injection - Hilt
