@@ -31,8 +31,8 @@ This app displays current weather and 3-day forecast for a city, and checks for 
 3. Paste your API key in the file ApiPoint.java
 
 ## Screenshots
-<img src="https://github.com/yozhykovanatolii/WeatherApp/assets/154551334/59805a13-45f2-4065-97ec-1713c2011808" width="450" height="850">
-<img src="https://github.com/yozhykovanatolii/WeatherApp/assets/154551334/a63f1791-5c5e-40d1-8a00-22dd83dce416" width="450" height="850">
+<img src="https://github.com/yozhykovanatolii/WeatherApp/assets/154551334/59805a13-45f2-4065-97ec-1713c2011808" width="400" height="850">
+<img src="https://github.com/yozhykovanatolii/WeatherApp/assets/154551334/a63f1791-5c5e-40d1-8a00-22dd83dce416" width="400" height="850">
 
 [java-shield]: https://img.shields.io/static/v1?message=v8&color=orange&label=Java
 [java-url]: https://www.java.com
