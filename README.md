@@ -2,7 +2,7 @@
 
 ## Content
 
-## Technologies / Tools used for building this app includes
+## Technologies / Tools used for building this app include
 - Java
 - Retrofit
 - Dependency Injection - Hilt
@@ -10,3 +10,4 @@
 - BroadcastReceiver
 - ViewModel
 - MaterialComponents
+- MVVM Architecture
