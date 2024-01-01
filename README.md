@@ -1,5 +1,5 @@
 # Weather Android App
-This weather app for Android shows the current weather and the 3-day forecast for a specific city.
+This app displays current weather and 3-day forecast for a city, and checks for internet connection.
 
 ## Technologies
 
