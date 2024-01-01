@@ -6,7 +6,7 @@ This weather app for Android shows the current weather and the 3-day forecast fo
 - Retrofit 2.9
 - Dependency Injection - Hilt 2.44
 - BroadcastReceiver
-- Material Components
+- Material Components 2.11
 - MVVM Architecture
 
 ## How to set up a project
