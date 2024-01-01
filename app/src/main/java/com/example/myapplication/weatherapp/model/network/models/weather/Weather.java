@@ -3,10 +3,11 @@ package com.example.myapplication.weatherapp.model.network.models.weather;
 import com.example.myapplication.weatherapp.model.network.models.city.Location;
 import com.example.myapplication.weatherapp.model.network.models.weather.current.Current;
 import com.example.myapplication.weatherapp.model.network.models.weather.forecast.Forecast;
+import com.google.gson.annotations.SerializedName;
 
 import java.io.Serializable;
 
-public class Weather implements Serializable {
+public class Weather {
     private Location location;
     private Current current;
     private Forecast forecast;
