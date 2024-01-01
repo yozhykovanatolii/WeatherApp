@@ -1,7 +1,5 @@
 # Simply Weather Android App
 
-## Content
-
 ## Technologies / Tools used for building this app include
 - Java
 - Retrofit
@@ -9,3 +7,6 @@
 - BroadcastReceiver
 - Material Components
 - MVVM Architecture
+
+## Screenshots
+
