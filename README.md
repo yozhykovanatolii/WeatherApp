@@ -6,6 +6,9 @@ This weather app for Android shows the current weather and the 3-day forecast fo
 ### Core Technologies
 
 - [![Java][java-shield]][java-url]
+
+## REST
+
 - [![Retrofit][retrofit-shield]][retrofit-url]
 
 ### Dependency Injection
@@ -35,7 +38,7 @@ This weather app for Android shows the current weather and the 3-day forecast fo
 [java-url]: https://www.java.com
 
 [retrofit-shield]: https://img.shields.io/static/v1?message=v2.9&color=green&label=Retrofit
-[retrofit-url]: https://www.baeldung.com/retrofit
+[retrofit-url]: https://square.github.io/retrofit/
 
 [hilt-shield]: https://img.shields.io/static/v1?message=v2.44&color=white&label=Hilt
 [hilt-url]: https://developer.android.com/training/dependency-injection/hilt-android
