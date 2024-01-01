@@ -7,7 +7,7 @@ This weather app for Android shows the current weather and the 3-day forecast fo
 
 - [![Java][java-shield]][java-url]
 
-## REST
+### REST
 
 - [![Retrofit][retrofit-shield]][retrofit-url]
 
