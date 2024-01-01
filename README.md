@@ -2,12 +2,24 @@
 This weather app for Android shows the current weather and the 3-day forecast for a specific city.
 
 ## Technologies
-- Java
-- Retrofit
-- Dependency Injection - Hilt
-- BroadcastReceiver
-- Material Components
-- MVVM Architecture
+
+### Core Technologies
+
+- [![Java][java-shield]][java-url]
+- [![Retrofit][retrofit-shield]][retrofit-url]
+
+### Dependency Injection
+
+- [![Hilt][hilt-shield]][hilt-url]
+
+### Android Components
+
+- [![BroadcastReceiver][broadcastreceiver-shield]][broadcastreceiver-url]
+- [![Material Components][materialcomponents-shield]][materialcomponents-url]
+
+### Architecture
+
+- [![MVVM Architecture][mvvmarchitecture-shield]][mvvmarchitecture-url]
 
 ## How to set up a project
 ### Steps:
@@ -18,3 +30,20 @@ This weather app for Android shows the current weather and the 3-day forecast fo
 ## Screenshot
 <img src="https://github.com/yozhykovanatolii/WeatherApp/assets/154551334/59805a13-45f2-4065-97ec-1713c2011808" width="450" height="850">
 
+[java-shield]: https://img.shields.io/static/v1?message=v8&color=orange&label=Java
+[java-url]: https://www.java.com
+
+[retrofit-shield]: https://img.shields.io/static/v1?message=v2.9&color=green&label=Retrofit
+[retrofit-url]: https://www.baeldung.com/retrofit
+
+[hilt-shield]: https://img.shields.io/static/v1?message=v2.44&color=white&label=Hilt
+[hilt-url]: https://developer.android.com/training/dependency-injection/hilt-android
+
+[broadcastreceiver-shield]: https://img.shields.io/static/v1?message=Event%20Handling&color=blue&label=BroadcastReceiver
+[broadcastreceiver-url]: https://developer.android.com/reference/android/content/BroadcastReceiver
+
+[materialcomponents-shield]: https://img.shields.io/static/v1?message=UI%20Design&color=pink&label=Material%20Components
+[materialcomponents-url]: https://codelabs.developers.google.com/codelabs/mdc-101-java/#0
+
+[mvvmarchitecture-shield]: https://img.shields.io/static/v1?message=Structured%20Design&color=red&label=MVVM%20Architecture
+[mvvmarchitecture-url]: https://www.digitalocean.com/community/tutorials/android-mvvm-design-pattern
