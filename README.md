@@ -6,8 +6,6 @@
 - Java
 - Retrofit
 - Dependency Injection - Hilt
-- LiveData
 - BroadcastReceiver
-- ViewModel
-- MaterialComponents
+- Material Components
 - MVVM Architecture
